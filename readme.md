@@ -10,3 +10,5 @@
 
 >> to delete a tag we use:
 * git tag -d  
+
+![pic](download.jpeg)
